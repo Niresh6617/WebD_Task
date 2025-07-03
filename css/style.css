@@ -8,7 +8,13 @@
 
     }
 }
-
+@media (max-width: 767.98px) {
+    /* Styles for mobile phones */
+    .hero-heading{
+        font-size: 40px !important;
+        border: 1px solid red;
+    }
+}
 .hero_button button img{
     position: relative;
     bottom: 5px;
@@ -76,4 +82,12 @@
         flex-direction: column;
         align-items: center;
     }
+}
+
+
+.apart-para{
+    width: 70%;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 35px;
 }
