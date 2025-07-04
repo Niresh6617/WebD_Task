@@ -12,7 +12,7 @@
     /* Styles for mobile phones */
     .hero-heading{
         font-size: 40px !important;
-        border: 1px solid red;
+        /* border: 1px solid red; */
     }
 }
 .hero_button button img{
